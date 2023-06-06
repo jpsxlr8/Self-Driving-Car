@@ -1,5 +1,5 @@
 # Self-Driving-Car
-A project based on image processing based using CNN and OpenCV
+A project based on image processing using CNN and OpenCV
 based on Image Processing using Convolutional Neural Networks + OpenCV.
 
 The project aims to build a monocular vision autonomous car prototype using Raspberry Pi as a processing chip interfaced with a camera.It is based on Image Processing using Deep learning + OpenCV,which classifies between the various images.
